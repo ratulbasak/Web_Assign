@@ -1,0 +1,46 @@
+*{margin:0;padding:0}
+
+body{font-family:open sans;font-size:14px;line-height:20px;color:#000;background:#343434}
+.fix{overflow:hidden}
+
+.main{width:960px;margin:30px auto;display:block;overflow:hidden;background:#fff}
+
+.header {width:960px;height:200px;background:url(images/banner1.jpg)}
+.text_header {height:60px}
+.text_header h1{color:white;margin-top:30px;padding-left:20px;}
+
+.mainmenu{background:#BBD6FA;overflow:hidden;width:960px}
+.mainmenu ul{margin:0;padding:0;list-style:none}
+.mainmenu ul li {float:left;border-right:1px solid #ebf0fc}
+.mainmenu ul li a {display:block;padding:10px 30.78px;color:black;text-decoration:none}
+.mainmenu ul li a:hover {background:#7390da}
+
+.slider{font-size:14px}
+.slider img{width:960px;height:240px}
+
+.maincontent{overflow:hidden;}
+
+.content{float:left;width:600px;margin-right:30px;margin-top:18px;margin-left:10px;margin-bottom:20px}
+
+
+.leftcontent{float:left;background:#91A2B2;width:250px;margin-top:10px;height:125px}
+.leftcontent h4{text-align:center;margin-top:8px}
+.leftcontent ul{margin-left:60px;margin-top:15px}
+.leftcontent ul li{border-bottom:1px solid #fff;}
+.leftcontent ul li a{text-decoration:none}
+.leftcontent ul li a:hover{color:#fff}
+
+.rightcontent{float:right;background:#91A2B2;width:250px;margin-top:10px;height:125px}
+.rightcontent h4{text-align:center;margin-top:8px}
+.rightcontent ul{margin-left:60px;margin-top:15px}
+.rightcontent ul li{border-bottom:1px solid #fff}
+.rightcontent ul li a{text-decoration:none}
+.rightcontent ul li a:hover{color:#fff}
+
+.sidebar{float:right;width:300px;background:#ededed;margin-top:20px;margin-right:10px;margin-bottom:10px;height:150px}
+.sidebar h2{text-align:center;margin-top:15px;}
+.image{padding:10px 0px;margin:-4px 94px;}
+.form{text-decoration:none;list-style:none;margin-left:20px}
+.sidebar h3{margin-top:15px;padding-left:106px}
+
+.footer{background:#07256d;color:white;padding:8px}
